@@ -1,5 +1,6 @@
 Forking begin 20250606
 The Ethers Project
+Start learning day by day from here
 ==================
 
 [![npm (tag)](https://img.shields.io/npm/v/ethers)](https://www.npmjs.com/package/ethers)
